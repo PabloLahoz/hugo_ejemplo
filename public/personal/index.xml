@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal :: My New Hugo Site</title>
+    <link>http://localhost:44945/personal/index.html</link>
+    <description>Esta pagina es sobre mi</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Oct 2024 13:26:23 +0200</lastBuildDate>
+    <atom:link href="http://localhost:44945/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Programacion</title>
+      <link>http://localhost:44945/personal/01_programacion/index.html</link>
+      <pubDate>Fri, 04 Oct 2024 13:26:14 +0200</pubDate>
+      <guid>http://localhost:44945/personal/01_programacion/index.html</guid>
+      <description>Programación Código de php&#xA;&lt;?php $a = rand(1,210); ?&gt; graph BT navegador --Llama--&gt; B[servidor web] A --&gt; B A --&gt; C B --&gt; C C --&gt; D</description>
+    </item>
+    <item>
+      <title>Markdown</title>
+      <link>http://localhost:44945/personal/02_markdown/index.html</link>
+      <pubDate>Fri, 04 Oct 2024 13:26:23 +0200</pubDate>
+      <guid>http://localhost:44945/personal/02_markdown/index.html</guid>
+      <description>Edición básica Títulos Para establecer los títulos usaré la siguiente sintaxis&#xA;# titulo1 ## titulo2 ### titulo3 #### titulo4 ##### titulo5 ###### titulo6 Negrita y formato Para ver el texto en negrita escribo&#xA;**Texto en negrita** Y se verá Texto en negrita</description>
+    </item>
+    <item>
+      <title>Aficiones</title>
+      <link>http://localhost:44945/personal/03_aficiones/index.html</link>
+      <pubDate>Fri, 04 Oct 2024 13:26:18 +0200</pubDate>
+      <guid>http://localhost:44945/personal/03_aficiones/index.html</guid>
+      <description>Mis aficiones Comentaré lo que me gusta</description>
+    </item>
+  </channel>
+</rss>

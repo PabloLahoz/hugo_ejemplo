@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Descargas :: My New Hugo Site</title>
+    <link>http://localhost:44945/descargas/index.html</link>
+    <description>Recursos que puedes obtener Attachments Captura desde 2024-09-24 11-02-25.png (29 KB) Captura desde 2024-09-30 09-01-57.png (45 KB) Captura desde 2024-09-30 09-02-43.png (91 KB) Crear contenedor.png (9 KB) Crear imagen a partir de contenedor.png (38 KB) docker login.png (52 KB) Verificar instalación apache.png (14 KB) Verificar instalacion php.png (26 KB)</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:44945/descargas/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
